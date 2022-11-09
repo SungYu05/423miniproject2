@@ -11,7 +11,7 @@ spring:
     username: test9doit
     password: 423206
 
-    output:
+  output:
     ansi:
       enabled: always
 

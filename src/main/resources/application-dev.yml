@@ -11,7 +11,7 @@ spring:
     username: miniproject2
     password: 12345678!
 
-    output:
+  output:
     ansi:
       enabled: always
 
